@@ -6,13 +6,7 @@ This is README
 - item2
 
 ## Part 2
-<<<<<<< HEAD
 1. sunday
 1. monday
 1. tuesday
 1. wednesday
-=======
-1.monday
-1.tuesday
-1.wednesday
->>>>>>> ff823ce01f70c03d2444678e3ce3055697a12c8b
